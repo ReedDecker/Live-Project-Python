@@ -13,9 +13,9 @@ Below are descriptions of the stories I worked on, along with code snippets, and
 
 * [Build NextNest App](#build-nextnest-app)
 * [Create a City](#create-a-city)
-* [Display City Data](https://github.com/ReedDecker/Live-Project-Python/blob/main/url)
-* [View City Details](https://github.com/ReedDecker/Live-Project-Python/blob/main/url)
-* [Edit + Delete City Info](https://github.com/ReedDecker/Live-Project-Python/blob/main/url)
+* [Display City Data](#display-city-data)
+* [View City Details](#view-city-details)
+* [Edit + Delete City Info]()
 * [Restful API](https://github.com/ReedDecker/Live-Project-Python/blob/main/url)
 * [Parse JSON Data](https://github.com/ReedDecker/Live-Project-Python/blob/main/url)
 * [Beautiful Soup](https://github.com/ReedDecker/Live-Project-Python/blob/main/url)
