@@ -1,6 +1,9 @@
 # Live-Project-Python
 ## Introduction - NextNest App
 
+<img width="1080" alt="HomePage" src="https://github.com/user-attachments/assets/0cc108cc-f58c-4350-bfc0-7ec009afa986" />
+
+
 During my time at the Tech Academy I joined a team of developers building a suite of applications for a 2 week sprint. This was an apprenticeship done for [Prosper IT Consulting ](https://www.linkedin.com/company/prosper-it-consulting/) where I participated in Agile/Scrum practices by completing user stories (as well as sprint planning, daily stand-ups, sprint retrospective) to deliver a fully functional application on-time. I personally was tasked with creating an app that aggregates civic data to give clients more confidence when moving to a new place...
 
 It is called ***NextNest***.
